@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/Lucas-BRT?tab=repositories)
 
-- 💬 Ask me about **Rust, Python**
+- 💬 Ask me about **Rust or Python**
 
 - 📫 How to reach me **lucasbritodepaula.t@gmail.com**
 
