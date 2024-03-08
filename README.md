@@ -1,16 +1,11 @@
-<h1 align="center">Hi 👋, I'm Lucas BRT</h1>
-<h3 align="center">an independent developer who loves technology</h3>
+<h1 align="center"> Lucas BRT </h1>
+<h3 align="center">a software engineering student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasbrt&label=Profile%20views&color=0e75b6&style=flat" alt="lucasbrt" /> </p>
 
 - 🔭 I’m currently working on [Kreck-ex](https://github.com/Lucas-BRT/Kreck-ex)
 
 - 🌱 I’m currently learning **Rust, Python, C and Javascript**
-
-- 👨‍💻 All of my projects are available at [Here](https://github.com/Lucas-BRT?tab=repositories)
-
-- 📫 How to reach me **lucasbritodepaula.t@gmail.com**
-
 
 <h3 align="left">Languages and Tools:</h3>
 
