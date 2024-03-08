@@ -1,6 +1,4 @@
 <h1 align="center"> Lucas BRT </h1>
-<h3 align="center">a software engineering student</h3>
-
 
 - 🔭 I’m currently working on [Kreck-ex](https://github.com/Lucas-BRT/Kreck-ex)
 
