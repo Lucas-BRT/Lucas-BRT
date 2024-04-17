@@ -1,6 +1,6 @@
 <h1 align="center"> Lucas BRT </h1>
 
-- 🔭 I’m currently working on [Kreck-ex](https://github.com/Lucas-BRT/Kreck-ex)
+- 🔭 I’m currently working on [Kreck](https://github.com/Lucas-BRT/Kreck)
 
 - 🌱 I’m currently learning **Rust, Python, C and Javascript**
 
