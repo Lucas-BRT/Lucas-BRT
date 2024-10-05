@@ -1,26 +1,33 @@
-<h1 align="center"> Lucas BRT </h1>
+<div align="center">
+  
+# Hi, I'm Lucas! 👋
 
-- 🔭 I’m currently working on [Kreck](https://github.com/Lucas-BRT/Kreck)
+I'm a passionate developer focused on creating practical and functional software.  
+I specialize in backend services and desktop applications using technologies like **Rust**, **Python**, **JavaScript**, and **Tauri**.  
+I also have experience in **CI/CD** with **GitHub Actions**, **React** for building modern user interfaces, and **Docker** for containerizing applications efficiently.
 
-- 🌱 I’m currently learning **Rust, Python, C and Javascript**
+## 🚀 Current Projects
+[**Kreck**](https://github.com/Lucas-BRT/Kreck) 🎮 - A Tauri project for controlling sounds and sound effects in RPG sessions using Discord.  
+[**kenku_control**](https://github.com/Lucas-BRT/kenku_control) 🔌 - A Rust API that [brief description].  
+[**Romitor-ex**](https://github.com/Lucas-BRT/Romitor-ex) 📜 - An extension for Owlbear Rodeo to [brief description].  
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Technologies & Tools
+  
+  **Languages**  
+  ![Rust](https://img.shields.io/badge/-Rust-000?style=flat&logo=rust)
+  ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
 
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/> 
-  </a>  
-</p>
+  **Frameworks**  
+  ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+  ![Tauri](https://img.shields.io/badge/-Tauri-000?style=flat&logo=tauri)
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucas-BRT&show_icons=true&locale=en&layout=compact" alt="Lucas-BRT" />
-</p>
+  **Tools**  
+  ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
+  ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+  ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-000?style=flat&logo=github-actions)
+
+## 🌱 Let's Connect
+Check out my repositories and feel free to reach out for collaborations!
+
+</div>
